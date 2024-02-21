@@ -29,11 +29,8 @@ Will usually produce useful files. A variety of hosted solutions may allow more 
 
 Some examples of notebooks associated with published articles include:
  
-> [https://doi.org/10.5281/zenodo.3945569](https://doi.org/10.5281/zenodo.3945569), accompanying Holwerda, B.W. et al., [2020, AJ, 160, 154](https://doi.org/10.3847/1538-3881/aba617)
-> 
-> [https://doi.org/10.5281/zenodo.6226123](https://doi.org/10.5281/zenodo.6226123), accompanying Fullard, A.G. et al., [2022, ApJ, 930, 89](https://doi.org/10.3847/1538-4357/ac589e)
-> 
-> [https://doi.org/10.5281/zenodo.7448504](https://doi.org/10.5281/zenodo.7448504), accompanying Mentuch Cooper, E. et al., [2023, ApJ, 943, 177](https://doi.org/10.3847/1538-4357/aca962)
-> 
-> [https://doi.org/10.5281/zenodo.7874710](https://doi.org/10.5281/zenodo.7874710), accompanying de los Reyes, M.A.C., et al. [2023, ApJ, 951, 52](https://doi.org/10.3847/1538-4357/acd189)
+* [https://doi.org/10.5281/zenodo.3945569](https://doi.org/10.5281/zenodo.3945569), accompanying Holwerda, B.W. et al., [2020, AJ, 160, 154](https://doi.org/10.3847/1538-3881/aba617) 
+* [https://doi.org/10.5281/zenodo.6226123](https://doi.org/10.5281/zenodo.6226123), accompanying Fullard, A.G. et al., [2022, ApJ, 930, 89](https://doi.org/10.3847/1538-4357/ac589e) 
+* [https://doi.org/10.5281/zenodo.7448504](https://doi.org/10.5281/zenodo.7448504), accompanying Mentuch Cooper, E. et al., [2023, ApJ, 943, 177](https://doi.org/10.3847/1538-4357/aca962) 
+* [https://doi.org/10.5281/zenodo.7874710](https://doi.org/10.5281/zenodo.7874710), accompanying de los Reyes, M.A.C., et al. [2023, ApJ, 951, 52](https://doi.org/10.3847/1538-4357/acd189)
 
